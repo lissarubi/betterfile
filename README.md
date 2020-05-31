@@ -9,3 +9,5 @@ Install:
 Usage:
 
 ``betterfile yourfile``
+
+![example](assets/example.png)
